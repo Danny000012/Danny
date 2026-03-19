@@ -45,7 +45,7 @@ I don't just write tests. I build quality systems.
 
 | Certification | Issuer |
 |---|---|
-| 🏆 ISTQB Certified Tester — Foundation Level | ISTQB |
+| 🏆 ISTQB Certified Tester | ISTQB |
 | 🔷 MCSD: App Builder | Microsoft |
 | 🗄️ MCSA: SQL Server | Microsoft |
 
